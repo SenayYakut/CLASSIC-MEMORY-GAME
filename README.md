@@ -2,7 +2,7 @@
 
 Classic Memory game is a HTML5, CSS3 project
 
-In this project, you’ll CSS3 Box Modelto build a front end for a classic memory game.
+In this project, you’ll use CSS3 Box Model to build a front end for a classic memory game.
 
 
 ## Installation
