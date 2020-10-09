@@ -82,9 +82,9 @@ p {
     padding-top: 40px;
 }
 
-div p#creator {
+p#creator {
     text-align: right;
     margin-top: 100px;
     margin-right: 10px;
-    font-family: "Dancing script", cursive;
+    font-family: "Dancing Script", cursive;
 }
